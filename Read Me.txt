@@ -1,0 +1,9 @@
+Add shopping lists in realtime with JavaScript actions.
+
+1. Run "index.html" in your browser.
+2. Enter in the input interface then just klik enter or press key enter on your keyboard.
+3. You will see the changes on the website
+
+Behance | Dribbble: ahmad-irfanda
+instagram | Twitter: ahmad_irfanda_
+Fb Page: ahmad irfanda hmd
